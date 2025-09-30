@@ -1,0 +1,5 @@
+{
+  "name": "RL Training Dashboard",
+  "description": "A user interface to monitor the progress of a reinforcement learning training session, inspired by a user-provided design.",
+  "requestFramePermissions": []
+}
